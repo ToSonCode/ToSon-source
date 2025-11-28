@@ -30,6 +30,9 @@ Quick Start:
 }
 ```
 
-Resources:
+### Resources:
 
 [Wiki/docs](https://tosoncode.github.io/ToSon/wiki.html)
+
+[Temlate maker](https://github.com/ToSonCode/ToSon-temp)
+
