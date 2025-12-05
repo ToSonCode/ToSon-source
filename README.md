@@ -1,6 +1,6 @@
 # Source code above.
 ### This repo is source for my coding language ToSon
-### if anyone wants to contact me. (this isnt my main account) just go to [ChowMeista](https://github.com/CHOWMEISTA) and you'll find my Discord there.
+### if anyone wants to contact me. (this isnt my main account) just go to my main [account](https://github.com/CHOWMEISTA) and you'll find my Discord there.
 
 ToSon is a lightweight data format designed for developers who want to create structured, readable templates and scripts quickly. It supports commands like say, let, ask, if/else, repeat, choose, set, and list, making it simple to handle variables, input, conditionals, loops, and randomization.
 
